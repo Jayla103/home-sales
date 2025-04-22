@@ -1,1 +1,1 @@
-# home-sales
+In this project, I used PySpark to dive into home sales data and pull out some meaningful insights. I ran SQL queries to figure out average home prices based on different features, and also filtered and grouped the data using various conditions. To keep things efficient, I saved the results as partitioned Parquet files and created temporary and cached tables for faster querying. Some of the resources I used for this included the PySpark docs, the Spark SQL guide, and Databricks' PySpark materials.
